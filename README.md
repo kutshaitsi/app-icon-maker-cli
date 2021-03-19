@@ -7,11 +7,11 @@
 ```
 $ git clone https://github.com/kutshaitsi/app-icon-maker-cli.git
 $ cd app-icon-maker-cli
-$ python -m pip install -r requirements.txt
+$ python3 -m pip install -r requirements.txt
 ```
 
 ## Usage
 
 ```
-$ python -m aimcli <target image> <destination>
+$ python3 -m aimcli <target image> <destination>
 ```
